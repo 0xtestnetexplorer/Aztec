@@ -5,17 +5,27 @@ Aztec is building a decentralized, privacy-focused network and the sequencer nod
 
 **Note : There’s no official confirmation of any rewards, airdrop, or incentives. This is purely for learning, contribution and being early in a cutting-edge privacy project.**
 
-## 💻 System Requirements
+## Hardware Requirements
+<table>
+  <tr>
+    <th colspan="3"> Sequencer Node HW Requirements </th>
+  </tr>
+  <tr>
+    <td>RAM</td>
+    <td>CPU</td>
+    <td>Disk</td>
+  </tr>
+  <tr>
+    <td><code>8-16 GB</code></td>
+    <td><code>4-9 cores</code></td>
+    <td><code>100+ GB SSD</code></td>
+  </tr>
+</table>
 
-| Component      | Specification               |
-|----------------|-----------------------------|
-| CPU            | 8-core Processor            |
-| RAM            | 16 GiB                      |
-| Storage        | 1 TB SSD                    |
-| Internet Speed | 25 Mbps Upload / Download   |
+* **Prover Node**: Requiring ~40x machines with 16 cores and 128GB RAM
+* I don't run `Prover` since it's for data-center computing systems, not me.
 
-> [!Note]
-> **You can start running this node on a `4-core CPU`, `6 GB of RAM` and `25 GB of storage`. However, as uptime increases, it's important to meet the recommended system requirements—otherwise, your node may eventually crash.**
+---
 
 ## 🌐 Rent VPS
 > [!Note]
