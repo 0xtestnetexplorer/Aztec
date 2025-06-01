@@ -363,7 +363,7 @@ rm -rf ~/.aztec/alpha-testnet/data/
 
 * 4- Re-run Node
 
-Return to [Step 9: Run Sequencer Node](https://github.com/0xmoei/aztec-network/blob/main/README.md#9-run-sequencer-node) to re-run your node
+Return to [Step 9: Run Sequencer Node](https://github.com/0xtestnetexplorer/Aztec/blob/main/README.md#9-run-sequencer-node) to re-run your node
 
 ---
 
@@ -371,7 +371,7 @@ Return to [Step 9: Run Sequencer Node](https://github.com/0xmoei/aztec-network/b
 If you encountered: `ERROR: world-state:block_stream Error processing block stream: Error: Obtained L1 to L2 messages failed to be hashed to the block inHash`
 
 * You have to stop your node, delete data and restart it.
-* Follow [Update Node](https://github.com/0xmoei/aztec-network/blob/main/README.md#-update-sequencer-node) steps
+* Follow [Update Node](https://github.com/0xtestnetexplorer/Aztec/blob/main/README.md#-update-sequencer-node) steps
 
 ---
 
