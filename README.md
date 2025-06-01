@@ -34,10 +34,14 @@ After running and syncing your Sequencer node, You can go through [Get Role](htt
 
 ---
 
-**Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/0xmoei/Install-Linux-on-Windows), then continue further steps.
+**Windows Users**: must install Ubuntu on Windows using this [guide](https://github.com/0xtestnetexplorer/Install-Ubuntu-on-your-windows-), then continue further steps.
 
-**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
-
+**VPS Users**: can get started via a `VPS` with 4 cores CPU, 8GB RAM! 
+1. [Purchase from xorek](https://my.xorek.cloud/billmgr?startform=usrparam) cheap price, good service
+   <br>
+2. [purchase from Aeza](https://aeza.net/?ref=674570) best service
+<br>
+3. you can use 3rd party site like [rapidnode](https://app.rapidnode.xyz) promo code: NC6PO7 (If you want discount) or you can use [node garden](https://nodes.garden/dashboard) promo code : A51BDE (10% discount)
 ---
 
 ## 1. Install Dependecies
